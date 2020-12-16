@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Initial Commit + Preparing to test equality">
+    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Make amount Private">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dollar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dollar.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
     </list>
@@ -22,13 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/Dollar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/Dollar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/TestMoney/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Class1.cs" />
         <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
-        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
         <option value="$PROJECT_DIR$/Dollar.cs" />
+        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
       </list>
     </option>
   </component>
@@ -60,7 +66,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial Commit + Preparing to test equality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit + Preparing to test equality" />
+    <MESSAGE value="Test equality, and equality implemented" />
+    <MESSAGE value="Make amount Private" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make amount Private" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1028" y="530" key="#Notifications" timestamp="1607956705113">
