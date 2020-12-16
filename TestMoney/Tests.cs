@@ -10,10 +10,8 @@ namespace TestMoney
         public void TestMultiplication()
         {
             Dollar five = new Dollar(5);
-            Dollar result = five.Times(2);
-            Assert.True(10 == result.amount);
-            result = five.Times(3);
-            Assert.True(15 == result.amount);
+            Assert.True(new Dollar(10).Equals(five.Times(2)));
+            Assert.True(new Dollar(15).Equals(five.Times(3)));
         }
 
         [Fact]

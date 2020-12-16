@@ -2,7 +2,7 @@
 {
     public class Dollar
     {
-        public int amount;
+        private int amount;
         public Dollar(int amount)
         {
             this.amount = amount;
@@ -23,9 +23,11 @@
     
     // todo $5 +10 CHF = $10 if rate is 2:1
     // done $5 * 2 = $10
-    // todo Make amount private
+    // done Make amount private
     // done Remove Dollar side effects
     // todo Money rounding
-    // todo equals
+    // done equals
     // todo hashcode
+    // todo equal null
+    // todo equal object
 }
