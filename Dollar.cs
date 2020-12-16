@@ -1,6 +1,6 @@
 ﻿namespace TDD_Money
 {
-    public struct Dollar
+    public class Dollar
     {
         public int amount;
         public Dollar(int amount)
@@ -12,6 +12,12 @@
         {
             return new Dollar(amount * multiplier);
             
+        }
+
+        public override bool Equals(object obj)
+        {
+            Dollar dollar = (Dollar) obj;
+            return dollar.amount == this.amount;
         }
     }
     

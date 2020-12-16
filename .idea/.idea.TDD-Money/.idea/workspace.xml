@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Initial Commit + Preparing to test equality">
+      <change beforePath="$PROJECT_DIR$/Dollar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dollar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Class1.cs" />
+        <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
+        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
+        <option value="$PROJECT_DIR$/Dollar.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1le60hGk215vSyltSNNvDFQW4Nk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial Commit + Preparing to test equality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit + Preparing to test equality" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1028" y="530" key="#Notifications" timestamp="1607956705113">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1028" y="530" key="#Notifications/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607956705113" />
+    <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size" timestamp="1607945547661">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607945547661" />
+    <state x="781" y="350" key="SettingsEditor" timestamp="1607957164497">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="350" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607957164497" />
+  </component>
+</project>
