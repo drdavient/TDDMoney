@@ -29,5 +29,6 @@
     // done 5 CHF * 2 = 10 CHF 
     // todo dollar/franc duplication
     // todo common times
-    // todo compare francs with dollars
+    // done compare francs with dollars
+    // todo currency?
 }

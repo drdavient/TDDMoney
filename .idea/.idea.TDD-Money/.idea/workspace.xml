@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Francs supported">
-      <change afterPath="$PROJECT_DIR$/Money.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dollar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dollar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Franc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Franc.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +27,8 @@
       <list>
         <option value="$PROJECT_DIR$/Class1.cs" />
         <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
-        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
         <option value="$PROJECT_DIR$/Franc.cs" />
+        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
         <option value="$PROJECT_DIR$/Money.cs" />
         <option value="$PROJECT_DIR$/Dollar.cs" />
       </list>
