@@ -1,5 +1,23 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+# Ignore everything
+/*
+/*/
+ 
+# Inverse ignore some stuff
+!/Assets/
+!/ProjectSettings/
+!.gitignore
+!README
+!/Packages/manifest.json
+!/ProjectSettings/
+!/Assets/Resources/Music*
+
+# OS Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+!steam_appid.txt

@@ -10,9 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Make amount Private">
+    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Francs supported">
+      <change afterPath="$PROJECT_DIR$/Money.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dollar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dollar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Franc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Franc.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +27,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/Dollar.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/Dollar.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Dev/TDD-Money/TDD-Money/TestMoney/Tests.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Class1.cs" />
         <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
-        <option value="$PROJECT_DIR$/Dollar.cs" />
         <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
+        <option value="$PROJECT_DIR$/Franc.cs" />
+        <option value="$PROJECT_DIR$/Money.cs" />
+        <option value="$PROJECT_DIR$/Dollar.cs" />
       </list>
     </option>
   </component>
@@ -46,7 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
@@ -56,7 +57,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -68,20 +75,21 @@
     <MESSAGE value="Initial Commit + Preparing to test equality" />
     <MESSAGE value="Test equality, and equality implemented" />
     <MESSAGE value="Make amount Private" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make amount Private" />
+    <MESSAGE value="Francs supported" />
+    <option name="LAST_COMMIT_MESSAGE" value="Francs supported" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1028" y="530" key="#Notifications" timestamp="1607956705113">
+    <state x="1028" y="530" key="#Notifications" timestamp="1608300134712">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1028" y="530" key="#Notifications/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607956705113" />
+    <state x="1028" y="530" key="#Notifications/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608300134712" />
     <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size" timestamp="1607945547661">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607945547661" />
-    <state x="781" y="350" key="SettingsEditor" timestamp="1607957164497">
+    <state x="965" y="239" width="1351" height="710" key="SettingsEditor" timestamp="1608308947891">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="781" y="350" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607957164497" />
+    <state x="965" y="239" width="1351" height="710" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608308947891" />
   </component>
 </project>
