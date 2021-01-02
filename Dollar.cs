@@ -6,10 +6,6 @@
         {
         }
 
-        public override  Money Times(int multiplier)
-        {
-            return Money.Dollar(amount * multiplier);
-        }
     }
 
     // todo $5 +10 CHF = $10 if rate is 2:1
@@ -23,7 +19,8 @@
     // todo equal object
     // done 5 CHF * 2 = 10 CHF 
     // todo dollar/franc duplication
-    // todo common times
+    // done common times
+    // done common times
     // done compare francs with dollars
     // done currency?
     // todo Delete TestFrancMultiplication?
