@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Dev\TDD-Money\TDD-Money" t="IncludeRecursive">
+      <e p="Bank.cs" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Money.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive" />
@@ -9,6 +10,7 @@
       <e p="packages.config" t="Include" />
       <e p="Properties" t="Include">
         <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Expression.cs" t="Include" />
         <e p="todo.txr" t="Include" />
       </e>
       <e p="TDD-Money.csproj" t="IncludeRecursive" />

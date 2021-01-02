@@ -13,15 +13,18 @@ namespace TestMoney
             Assert.True(Money.Dollar(10).Equals(five.Times(2)));
             Assert.True(Money.Dollar(15).Equals( five.Times(3)));
         }
-        
-        [Fact]
-        public void TestFrancMultiplication()
-        {
-            Money five = Money.Franc(5);
-            Assert.True(Money.Franc(10).Equals( five.Times(2)));
-            Assert.True(Money.Franc(15).Equals( five.Times(3)));
-        }
 
+        [Fact]
+        public void TestSimpleAddition()
+        {
+            Money five = new Money(5, "USD");
+            Expression sum = five.Plus(five);
+            Bank bank = new Bank();
+            Money reduced = bank.Reduce(sum, "USD");
+            Assert.Equal(Money.Dollar(10), reduced);
+            
+        }
+        
         [Fact]
         public void TestEquality()
         {
@@ -37,4 +40,6 @@ namespace TestMoney
             Assert.Equal("CHF", Money.Franc(1).Currency());
         }
     }
+
+   
 }

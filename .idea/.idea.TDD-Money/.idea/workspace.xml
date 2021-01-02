@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Francs supported">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +30,11 @@
         <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
         <option value="$PROJECT_DIR$/Franc.cs" />
         <option value="$PROJECT_DIR$/Dollar.cs" />
+        <option value="$PROJECT_DIR$/Properties/todo.txr" />
+        <option value="$PROJECT_DIR$/Properties/Expression.cs" />
         <option value="$PROJECT_DIR$/Money.cs" />
         <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
+        <option value="$PROJECT_DIR$/Bank.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +82,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1028" y="530" key="#Notifications/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608300134712" />
+    <state x="724" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609597806956">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="724" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1609597806956" />
     <state x="779" y="217" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1609596663789">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
