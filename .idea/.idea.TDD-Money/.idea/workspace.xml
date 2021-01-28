@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Francs supported">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
     </list>
@@ -30,10 +32,13 @@
         <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
         <option value="$PROJECT_DIR$/Franc.cs" />
         <option value="$PROJECT_DIR$/Dollar.cs" />
-        <option value="$PROJECT_DIR$/Properties/todo.txr" />
         <option value="$PROJECT_DIR$/Properties/Expression.cs" />
-        <option value="$PROJECT_DIR$/Money.cs" />
+        <option value="$PROJECT_DIR$/TestMoney/Sum.cs" />
+        <option value="$PROJECT_DIR$/Sum.cs" />
+        <option value="$PROJECT_DIR$/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/Properties/todo.txr" />
         <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
+        <option value="$PROJECT_DIR$/Money.cs" />
         <option value="$PROJECT_DIR$/Bank.cs" />
       </list>
     </option>
@@ -90,14 +95,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="779" y="217" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609596663789" />
+    <state x="960" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609835730435">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="960" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1609835730435" />
     <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size" timestamp="1607945547661">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607945547661" />
+    <state x="670" y="203" key="RiderGenerateDialog" timestamp="1609665211618">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="670" y="203" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609665211618" />
     <state x="965" y="239" width="1351" height="710" key="SettingsEditor" timestamp="1608308947891">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="965" y="239" width="1351" height="710" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608308947891" />
+    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog" timestamp="1609665678790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609665678790" />
     <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1609440898310">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>

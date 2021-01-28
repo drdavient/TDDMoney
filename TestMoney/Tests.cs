@@ -11,7 +11,7 @@ namespace TestMoney
         {
             Money five = Money.Dollar(5);
             Assert.True(Money.Dollar(10).Equals(five.Times(2)));
-            Assert.True(Money.Dollar(15).Equals( five.Times(3)));
+            Assert.True(Money.Dollar(15).Equals(five.Times(3)));
         }
 
         [Fact]
@@ -22,9 +22,36 @@ namespace TestMoney
             Bank bank = new Bank();
             Money reduced = bank.Reduce(sum, "USD");
             Assert.Equal(Money.Dollar(10), reduced);
-            
+
         }
-        
+
+        [Fact]
+        public void TestPlusReturnsSum()
+        {
+            Money five = new Money(5, "USD");
+            Expression result = five.Plus(five);
+            Sum sum = (Sum) result;
+            Assert.Equal(five, sum.Augend);
+            Assert.Equal(five, sum.Addend);
+        }
+
+        [Fact]
+        public void TestReduceSum()
+        {
+            Expression sum = new Sum(Money.Dollar(3), Money.Dollar(4));
+            Bank bank = new Bank();
+            Money result = bank.Reduce(sum, "USD");
+            Assert.Equal(Money.Dollar(7), result);
+        }
+
+        [Fact]
+        public void TestReduceMoney()
+        {
+            Bank bank = new Bank();
+            Money result = bank.Reduce(Money.Dollar(1), "USD");
+            Assert.Equal(Money.Dollar(1), result);
+        }
+
         [Fact]
         public void TestEquality()
         {
@@ -40,6 +67,4 @@ namespace TestMoney
             Assert.Equal("CHF", Money.Franc(1).Currency());
         }
     }
-
-   
 }
