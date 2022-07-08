@@ -70,7 +70,6 @@
     <ItemGroup>
       <Content Include="TDD-Money.sln" />
       <Content Include="Todo.md" />
-      <Content Include="todo.txt" />
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Properties" />
