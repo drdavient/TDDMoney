@@ -59,8 +59,6 @@
         <Compile Include="Bank.cs" />
         <Compile Include="Expression.cs" />
         <Compile Include="Money.cs" />
-        <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Properties\Expression.cs" />
         <Compile Include="Sum.cs" />
     </ItemGroup>
     <ItemGroup>
@@ -70,9 +68,12 @@
       <Analyzer Include="packages\xunit.analyzers.0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll" />
     </ItemGroup>
     <ItemGroup>
-      <Content Include="Properties\todo.txr" />
       <Content Include="TDD-Money.sln" />
-      <Content Include="todo.txr" />
+      <Content Include="Todo.md" />
+      <Content Include="todo.txt" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Properties" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

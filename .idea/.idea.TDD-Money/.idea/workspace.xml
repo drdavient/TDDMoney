@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9381279a-1ccd-4067-aa58-bd4ebb8b0691" name="Default Changelist" comment="Francs supported">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD-Money.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.sln.DotSettings.user" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,34 +18,47 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Class1.cs" />
-        <option value="$PROJECT_DIR$/UITest-TDDMoney/AppTests.cs" />
-        <option value="$PROJECT_DIR$/Franc.cs" />
-        <option value="$PROJECT_DIR$/Dollar.cs" />
-        <option value="$PROJECT_DIR$/Properties/Expression.cs" />
-        <option value="$PROJECT_DIR$/TestMoney/Sum.cs" />
-        <option value="$PROJECT_DIR$/Sum.cs" />
-        <option value="$PROJECT_DIR$/Properties/AssemblyInfo.cs" />
-        <option value="$PROJECT_DIR$/Properties/todo.txr" />
-        <option value="$PROJECT_DIR$/TestMoney/Tests.cs" />
-        <option value="$PROJECT_DIR$/Money.cs" />
-        <option value="$PROJECT_DIR$/Bank.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Sum.cs" />
+      <option value="$PROJECT_DIR$/Expression.cs" />
+      <option value="$PROJECT_DIR$/Bank.cs" />
+      <option value="$PROJECT_DIR$/todo.txt" />
+    </changedPaths>
   </component>
-  <component name="ProjectId" id="1le60hGk215vSyltSNNvDFQW4Nk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1tLMxGcdA2GE0xTYW5efxRqz4Bg" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="" />
+      <created>1622544164676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622544164676</updated>
+      <workItem from="1622544169236" duration="1414000" />
+      <workItem from="1657267531491" duration="1774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,63 +66,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Initial Commit + Preparing to test equality" />
-    <MESSAGE value="Test equality, and equality implemented" />
-    <MESSAGE value="Make amount Private" />
-    <MESSAGE value="Francs supported" />
-    <option name="LAST_COMMIT_MESSAGE" value="Francs supported" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1028" y="530" key="#Notifications" timestamp="1608300134712">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="1028" y="530" key="#Notifications/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608300134712" />
-    <state x="724" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609597806956">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="724" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1609597806956" />
-    <state x="779" y="217" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1609596663789">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="779" y="217" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609596663789" />
-    <state x="960" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609835730435">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="960" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1609835730435" />
-    <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size" timestamp="1607945547661">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="872" y="437" key="Rider.ProjectTemplateDialog.Size/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1607945547661" />
-    <state x="670" y="203" key="RiderGenerateDialog" timestamp="1609665211618">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="670" y="203" key="RiderGenerateDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609665211618" />
-    <state x="965" y="239" width="1351" height="710" key="SettingsEditor" timestamp="1608308947891">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="965" y="239" width="1351" height="710" key="SettingsEditor/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1608308947891" />
-    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog" timestamp="1609665678790">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1609665678790" />
-    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup" timestamp="1609440898310">
-      <screen x="0" y="0" width="2560" height="1410" />
-    </state>
-    <state x="943" y="317" width="672" height="678" key="search.everywhere.popup/0.0.2560.1410/-2560.0.2560.1410/2560.-310.1440.2530/-3640.-310.1080.1890@0.0.2560.1410" timestamp="1609440898310" />
   </component>
 </project>
