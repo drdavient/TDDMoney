@@ -1,6 +1,6 @@
-﻿# TDD Money
+# TDD Money
 ## Kent Beck
-### Progress : Chapter 13
+### Progress : Chapter 14
 - [ ]  $5 +10 CHF = $10 if rate is 2:1
 - [ ]   **$5 + $5 = $10**
 - [ ]  return Money from $5 + $5

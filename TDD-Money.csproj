@@ -57,6 +57,7 @@
     <ItemGroup>
         <Compile Include="AssemblyInfo.cs" />
         <Compile Include="Bank.cs" />
+        <Compile Include="CurrencyPair.cs" />
         <Compile Include="Expression.cs" />
         <Compile Include="Money.cs" />
         <Compile Include="Sum.cs" />

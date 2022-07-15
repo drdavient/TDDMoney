@@ -4,6 +4,6 @@ namespace TDD_Money
 {
     public interface Expression
     {
-        Money Reduce(String currency);
+        Money Reduce(Bank bank, String toCurrency);
     }
 }

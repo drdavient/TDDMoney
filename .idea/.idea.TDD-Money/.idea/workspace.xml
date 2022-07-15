@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CurrencyPair.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bank.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Expression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Expression.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Money.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Money.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Todo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/dev/DrDavient/Learning/TDD-Money/TDD-Money/Bank.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/dev/DrDavient/Learning/TDD-Money/TDD-Money/Bank.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/dev/DrDavient/Learning/TDD-Money/TDD-Money/Bank.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -54,7 +57,9 @@
       <workItem from="1622544169236" duration="1414000" />
       <workItem from="1657267531491" duration="3369000" />
       <workItem from="1657271242297" duration="113000" />
-      <workItem from="1657271382064" duration="1190000" />
+      <workItem from="1657271382064" duration="7262000" />
+      <workItem from="1657282148898" duration="3572000" />
+      <workItem from="1657878963181" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Chapter 13">
       <created>1657269862715</created>
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657270431631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Chapter 13,&#10;Changed .gitignore to one from https://www.toptal.com/developers/gitignore/api/csharp,rider">
+      <created>1657272888836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657272888836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +91,16 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -93,6 +115,26 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Make It" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make It" />
+    <MESSAGE value="Completed Chapter 13,&#10;Changed .gitignore to one from https://www.toptal.com/developers/gitignore/api/csharp,rider" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 13,&#10;Changed .gitignore to one from https://www.toptal.com/developers/gitignore/api/csharp,rider" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Money.cs</url>
+          <line>56</line>
+          <properties documentPath="C:\dev\DrDavient\Learning\TDD-Money\TDD-Money\Money.cs" initialLine="56" containingFunctionPresentation="method 'Reduce'">
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

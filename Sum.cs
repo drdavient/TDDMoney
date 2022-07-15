@@ -13,10 +13,10 @@ namespace TDD_Money
             Addend = addend;
         }
 
-        public Money Reduce(String currency)
+        public Money Reduce(Bank bank, String toCurrency)
         {
             int amount = Addend.Amount + Augend.Amount;
-            return new Money(amount, currency);
+            return new Money(amount, toCurrency).Reduce(bank, toCurrency);
         }
     }
 }

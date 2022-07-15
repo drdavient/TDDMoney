@@ -66,5 +66,20 @@ namespace TestMoney
             Assert.Equal("USD", Money.Dollar(1).Currency());
             Assert.Equal("CHF", Money.Franc(1).Currency());
         }
+
+        [Fact]
+        public void TestReduceMoneyDifferentCurrency()
+        { 
+            Bank bank = new Bank();
+             bank.AddRate("CHF", "USD", 2);
+            Money result = bank.Reduce(Money.Franc(2), "USD");
+            Assert.Equal(Money.Dollar(1),result); 
+        }
+
+        [Fact]
+        public void TestTupleEquality()
+        {
+            Assert.Equal(("abc","def"),("abc","def"));
+        }
     }
 }

@@ -52,9 +52,12 @@ namespace TDD_Money
             return Amount + " " + _currency;
         }
 
-        public Money Reduce(string to)
+        public Money Reduce(Bank bank, string toCurrency)
         {
-            return this;
+            var rate = bank.Rate(_currency, toCurrency);
+            return new Money(Amount/rate,toCurrency);
         }
+
+       
     }
 }
