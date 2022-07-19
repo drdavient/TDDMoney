@@ -81,5 +81,17 @@ namespace TestMoney
         {
             Assert.Equal(("abc","def"),("abc","def"));
         }
+
+        [Fact]
+        public void TestMixedAddition()
+        {
+            Bank bank = new Bank();
+            bank .AddRate("CHF","USD",2);
+            Expression fiveDollars = Money.Dollar(5);
+            Expression tenFrancs = Money.Franc(10);
+            Money result = bank.Reduce(fiveDollars.Plus(tenFrancs),"USD");
+            Expression calc = new Sum(Money.Dollar(5), Money.Franc(10));
+            Assert.Equal(10,result.Amount);
+        }
     }
 }

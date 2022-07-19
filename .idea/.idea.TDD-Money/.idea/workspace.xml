@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CurrencyPair.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bank.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Expression.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Money.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Money.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sum.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TDD-Money.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TDD-Money.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Todo.md" afterDir="false" />
     </list>
@@ -59,7 +55,8 @@
       <workItem from="1657271242297" duration="113000" />
       <workItem from="1657271382064" duration="7262000" />
       <workItem from="1657282148898" duration="3572000" />
-      <workItem from="1657878963181" duration="1605000" />
+      <workItem from="1657878963181" duration="2578000" />
+      <workItem from="1658236865017" duration="3370000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Chapter 13">
       <created>1657269862715</created>
@@ -82,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657272888836</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed chapter 14">
+      <created>1657880946302</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657880946302</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +120,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Make It" />
     <MESSAGE value="Completed Chapter 13,&#10;Changed .gitignore to one from https://www.toptal.com/developers/gitignore/api/csharp,rider" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Chapter 13,&#10;Changed .gitignore to one from https://www.toptal.com/developers/gitignore/api/csharp,rider" />
+    <MESSAGE value="Completed chapter 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed chapter 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -133,6 +138,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestMoney/Tests.cs</url>
+          <line>92</line>
+          <properties documentPath="C:\dev\DrDavient\Learning\TDD-Money\TDD-Money\TestMoney\Tests.cs" initialLine="89" containingFunctionPresentation="method 'TestMixedAddition'">
+            <startOffsets>
+              <option value="2684" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2744" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
