@@ -7,6 +7,8 @@
 - [x]  Bank.Reduce (Money)
 - [x] Reduce Money with conversion
 - [x] Reduce (Bank, String)
+- [ ] Sum.Plus()
+- [ ] Expression.Times
 - ----
 - [ ]  Money rounding
 - [ ]  hashcode
