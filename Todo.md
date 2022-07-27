@@ -1,14 +1,14 @@
 # TDD Money
 ## Kent Beck
-### Progress : Chapter 14
+### Progress : Chapter 15,16,17
 - [x]  $5 +10 CHF = $10 if rate is 2:1
 - [x]   $5 + $5 = $10
-- [ ]  return Money from $5 + $5
+- [x]  return Money from $5 + $5
 - [x]  Bank.Reduce (Money)
 - [x] Reduce Money with conversion
 - [x] Reduce (Bank, String)
-- [ ] Sum.Plus()
-- [ ] Expression.Times
+- [x] Sum.Plus()
+- [x] Expression.Times
 - ----
 - [ ]  Money rounding
 - [ ]  hashcode

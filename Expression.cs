@@ -6,5 +6,6 @@ namespace TDD_Money
     {
         Money Reduce(Bank bank, String toCurrency);
         Expression Plus(Expression addend);
+        Expression Times(int i);
     }
 }

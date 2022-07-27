@@ -21,7 +21,12 @@ namespace TDD_Money
 
         public Expression Plus(Expression addend)
         {
-            return null;
+            return new Sum(this, addend);
+        }
+
+        public Expression Times(int multiplier)
+        {
+            return new Sum(Augend. Times( multiplier), Addend.Times(multiplier));
         }
     }
 }

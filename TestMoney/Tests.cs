@@ -90,8 +90,33 @@ namespace TestMoney
             Expression fiveDollars = Money.Dollar(5);
             Expression tenFrancs = Money.Franc(10);
             Money result = bank.Reduce(fiveDollars.Plus(tenFrancs),"USD");
-            Expression calc = new Sum(Money.Dollar(5), Money.Franc(10));
             Assert.Equal(10,result.Amount);
         }
+
+        [Fact]
+        public void TestSumPlusMoney()
+        {
+            Bank bank = new Bank();
+            bank .AddRate("CHF","USD",2);
+            Expression fiveDollars = Money.Dollar(5);
+            Expression tenFrancs = Money.Franc(10);
+            Expression sum = new Sum(fiveDollars, tenFrancs).Plus(fiveDollars);
+            Money result = bank.Reduce(sum,"USD");
+            Assert.Equal(15,result.Amount);
+        }
+        
+        [Fact]
+        public void TestSumTimes()
+        {
+            Bank bank = new Bank();
+            bank .AddRate("CHF","USD",2);
+            Expression fiveDollars = Money.Dollar(5);
+            Expression tenFrancs = Money.Franc(10);
+            Expression sum = new Sum(fiveDollars, tenFrancs).Times(2);
+            Money result = bank.Reduce(sum,"USD");
+            Assert.Equal(20,result.Amount);
+        }
+
+      
     }
 }
