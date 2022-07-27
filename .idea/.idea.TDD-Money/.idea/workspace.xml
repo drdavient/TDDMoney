@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="">
+    <list default="true" id="7aec1eed-2765-4f61-a163-6cafc29fbd09" name="Default Changelist" comment="Completed Book">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TDD-Money/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Expression.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Expression.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Money.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Money.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Sum.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestMoney/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestMoney/Tests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Todo.md" beforeDir="false" afterPath="$PROJECT_DIR$/Todo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +56,7 @@
       <workItem from="1658236865017" duration="3699000" />
       <workItem from="1658313129462" duration="3795000" />
       <workItem from="1658478457860" duration="1302000" />
-      <workItem from="1658915389551" duration="1216000" />
+      <workItem from="1658915389551" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Chapter 13">
       <created>1657269862715</created>
@@ -118,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658314739465</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completed Book">
+      <created>1658916933900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658916933900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,25 +161,7 @@
     <MESSAGE value="Missed Todo changes" />
     <MESSAGE value="Chapter 16: Abstraction," />
     <MESSAGE value="Chapter 16: Abstraction, Finally" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 16: Abstraction, Finally" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/TestMoney/Tests.cs</url>
-          <line>123</line>
-          <properties documentPath="C:\dev\DrDavient\Learning\TDD-Money\TDD-Money\TestMoney\Tests.cs" initialLine="123" containingFunctionPresentation="method 'TestPlusSameCurrencyReturnsMoney'">
-            <startOffsets>
-              <option value="3750" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3810" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Completed Book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Book" />
   </component>
 </project>
